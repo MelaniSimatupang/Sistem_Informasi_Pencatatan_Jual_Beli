@@ -1,4 +1,4 @@
-![alt text](https://github.com/MelaniSimatupang/Sistem_Informasi_Pencatatan_Jual_Beli/blob/main/Camera%20Roll/Login.jpeg?raw=true)
+Tampilan Login ![alt text](https://github.com/MelaniSimatupang/Sistem_Informasi_Pencatatan_Jual_Beli/blob/main/Camera%20Roll/Login.jpeg?raw=true)
 ![alt text](https://github.com/MelaniSimatupang/Sistem_Informasi_Pencatatan_Jual_Beli/blob/main/Camera%20Roll/Dashboard.jpeg?raw=true)
 ![alt text](https://github.com/MelaniSimatupang/Sistem_Informasi_Pencatatan_Jual_Beli/blob/main/Camera%20Roll/Jenis%20Barang.jpeg?raw=true)
 ![alt text](https://github.com/MelaniSimatupang/Sistem_Informasi_Pencatatan_Jual_Beli/blob/main/Camera%20Roll/Satuan%20Barang.jpeg?raw=true)
