@@ -1,20 +1,7 @@
 ## Sistem_Informasi_Pencatatan_Jual_Beli
 Sistem Informasi Pencatatan Jual Beli ini,  dirancang sebagai solusi komprehensif untuk membantu para pelaku bisnis dalam mencatat dan mengelola operasional perusahaan secara efisien. Dengan fokus pada proses jual beli, aplikasi ini menyediakan berbagai fitur yang dirancang untuk memudahkan pengguna dalam mengelola transaksi bisnis.
 ## Fitur
-Dashboard
-Jenis Barang
-Satuan Barang
-Merk Barang
-Barang
-Customer
-Barang Masuk
-Barang Keluar
-Laporan Barang Masuk
-Laporan Barang Keluar
-Laporan Stok Barang
-Setting Website
-Setting Hak Akses user per Role
-Setting Menu (bisa tambah menu atau bisa hapus menu)
+Dashboard, Jenis Barang, Satuan Barang, Merk Barang, Barang, Customer, Barang Masuk, Barang Keluar, Laporan Barang Masuk, Laporan Barang Keluar, Laporan Stok Barang, Setting Website, Setting Hak Akses user per Role, Setting Menu (bisa tambah menu atau bisa hapus menu)
 ## Instalasi
 1. Clone Project dengan perintah terminal gitbash sebagai berikut:
 https://github.com/MelaniSimatupang/Sistem_Informasi_Pencatatan_Jual_Beli.git
